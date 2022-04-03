@@ -1,0 +1,48 @@
+[33mcommit ce1d85162f0cec5e16a1cdd31c71414a6a83c4f9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: c46a1cd ff2b091
+Author: argyris kefalas <kefalas.argiris@gmail.com>
+Date:   Sat Apr 2 17:22:37 2022 +0300
+
+    conflict resolved
+
+[33mcommit c46a1cde6d24d7d9bd2a0555032ac416373a6bc6[m
+Author: argyris kefalas <kefalas.argiris@gmail.com>
+Date:   Sat Apr 2 17:18:29 2022 +0300
+
+    1111 2222
+
+[33mcommit ff2b091c2c780b0117dca2dc32bf5eae758e71b2[m[33m ([m[1;32mbranch5[m[33m)[m
+Author: argyris kefalas <kefalas.argiris@gmail.com>
+Date:   Sat Apr 2 17:17:01 2022 +0300
+
+    line added from branc5
+
+[33mcommit fe2cda935e11db972768972e157cca67af822f68[m
+Author: argyris kefalas <kefalas.argiris@gmail.com>
+Date:   Sat Apr 2 17:14:25 2022 +0300
+
+    added file cuse for conflict
+
+[33mcommit 63b0fa02763a6563cd1a0a95a94b1098dec6407c[m[33m ([m[1;32mbranch4[m[33m)[m
+Author: argyris kefalas <kefalas.argiris@gmail.com>
+Date:   Sat Apr 2 15:35:44 2022 +0300
+
+    2 in file3
+
+[33mcommit 2fd61053c7b7a275b4a8de6580780e0f2cebd799[m
+Author: argyris kefalas <kefalas.argiris@gmail.com>
+Date:   Sat Apr 2 15:29:27 2022 +0300
+
+    add file3
+
+[33mcommit 021820821262a6b3b80267c69717f25b3b3f09d7[m[33m ([m[1;32mnew_btanch_2[m[33m, [m[1;32mnew_branch_3[m[33m, [m[1;32mname2[m[33m, [m[1;32mdeep2[m[33m, [m[1;32mdeep1[m[33m)[m
+Author: argyris kefalas <kefalas.argiris@gmail.com>
+Date:   Fri Apr 1 21:26:31 2022 +0300
+
+    in master -> file1.txt
+
+[33mcommit 37c48fa23e454e712cd260c7ac61c42b9a12bd3c[m
+Author: argyris kefalas <kefalas.argiris@gmail.com>
+Date:   Fri Apr 1 16:14:15 2022 +0300
+
+    added file1 and file2
